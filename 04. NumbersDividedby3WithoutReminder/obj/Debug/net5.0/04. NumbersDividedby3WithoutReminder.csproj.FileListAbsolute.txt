@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\bin\Debug\net5.0\04. NumbersDividedby3WithoutReminder.exe
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\bin\Debug\net5.0\04. NumbersDividedby3WithoutReminder.deps.json
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\bin\Debug\net5.0\04. NumbersDividedby3WithoutReminder.runtimeconfig.json
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\bin\Debug\net5.0\04. NumbersDividedby3WithoutReminder.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\bin\Debug\net5.0\04. NumbersDividedby3WithoutReminder.dll
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\bin\Debug\net5.0\ref\04. NumbersDividedby3WithoutReminder.dll
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\bin\Debug\net5.0\04. NumbersDividedby3WithoutReminder.pdb
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\obj\Debug\net5.0\04. NumbersDividedby3WithoutReminder.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\obj\Debug\net5.0\04. NumbersDividedby3WithoutReminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\obj\Debug\net5.0\04. NumbersDividedby3WithoutReminder.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\obj\Debug\net5.0\04. NumbersDividedby3WithoutReminder.AssemblyInfo.cs
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\obj\Debug\net5.0\04. NumbersDividedby3WithoutReminder.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\obj\Debug\net5.0\04. NumbersDividedby3WithoutReminder.dll
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\obj\Debug\net5.0\ref\04. NumbersDividedby3WithoutReminder.dll
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\obj\Debug\net5.0\04. NumbersDividedby3WithoutReminder.pdb
+C:\Users\Marina\source\repos\While-Loop - More Exercises\04. NumbersDividedby3WithoutReminder\obj\Debug\net5.0\04. NumbersDividedby3WithoutReminder.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\bin\Debug\net5.0\02. Report System.exe
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\bin\Debug\net5.0\02. Report System.deps.json
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\bin\Debug\net5.0\02. Report System.runtimeconfig.json
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\bin\Debug\net5.0\02. Report System.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\bin\Debug\net5.0\02. Report System.dll
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\bin\Debug\net5.0\ref\02. Report System.dll
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\bin\Debug\net5.0\02. Report System.pdb
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\obj\Debug\net5.0\02. Report System.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\obj\Debug\net5.0\02. Report System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\obj\Debug\net5.0\02. Report System.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\obj\Debug\net5.0\02. Report System.AssemblyInfo.cs
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\obj\Debug\net5.0\02. Report System.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\obj\Debug\net5.0\02. Report System.dll
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\obj\Debug\net5.0\ref\02. Report System.dll
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\obj\Debug\net5.0\02. Report System.pdb
+C:\Users\Marina\source\repos\While-Loop - More Exercises\02. Report System\obj\Debug\net5.0\02. Report System.genruntimeconfig.cache
